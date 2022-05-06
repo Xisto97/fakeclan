@@ -251,7 +251,7 @@ body.menu-expanded button path {
 }
 
 #home::before {
-  background-image: url(/images/background.jpg);
+  background-image: url(./images/background.jpg);
   content: '';
   width: 100%;
   height: calc(78% + var(--nav-height));
@@ -346,7 +346,7 @@ body.menu-expanded button path {
 
 #about {
   text-align: left;
-  background: url(/images/galaxyBG2.jpg);
+  background: url(./images/galaxyBG2.jpg);
 }
 
 #about img {
@@ -395,7 +395,7 @@ body.menu-expanded button path {
 /*=== FOOTER =====================================*/
 
 footer {
-  background-image: url(/images/background.jpg);
+  background-image: url(./images/background.jpg);
   padding-block: 6rem;
   color: var(--primary-color);
   text-align: left;
