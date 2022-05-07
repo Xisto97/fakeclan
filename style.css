@@ -1,6 +1,3 @@
-/* NOTES */
-/*Referencia a ID do HMTL no CSS usa #*/
-
 /*=== GERAL =====================================*/
 * {
   margin: 0;
@@ -665,7 +662,6 @@ footer .social-links path {
     gap: 0;
   }
 
-  /* CAIXA chama CONTEUDO e busca um ANTERIOR A ELE */
   #home .stats .stat + .stat {
     border-left: 1px solid var(--bg-color);
   }
